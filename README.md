@@ -1,0 +1,6 @@
+# ssp 
+
+
+- flux
+- react
+- bootstrap
